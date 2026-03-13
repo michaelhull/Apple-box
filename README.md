@@ -6,8 +6,7 @@
 
 
 
- Todo
-- Fix to the side and end dimentions to match standard apple box dimentions. The dimentions will have to be calculated and include stock thickness.
+ Readme text here
 
 
 
